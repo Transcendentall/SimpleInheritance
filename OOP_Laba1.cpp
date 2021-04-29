@@ -40,6 +40,7 @@ void whatisyourname()
 
         void whatisyourdateofbirth()
         {
+            
             cout << "Date of birth of " << this->name << " is " << this->dateofbirth << "." << endl;
         }
 
